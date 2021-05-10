@@ -26,8 +26,12 @@
 |     11    |          Purchase          |   int64   |         Purchase amount         | False  |
 
 ----
-# Purchase :
-![](readme//Purchase.JPG)
+
+### Purchase : [Analysis](https://github.com/Poulami0702/Emerging-India-Analytics-Project/blob/main/readme/Purchase.JPG) 
+### Age : [Analysis](https://github.com/Poulami0702/Emerging-India-Analytics-Project/blob/main/readme/Age.JPG) 
+### Occupation : [Analysis](https://github.com/Poulami0702/Emerging-India-Analytics-Project/blob/main/readme/Occupation.JPG) 
+### Product_category_1 : [Analysis](https://github.com/Poulami0702/Emerging-India-Analytics-Project/blob/main/readme/Product_category_1.JPG) 
+----
 
 ## Motivation:
 - Predicting customer's behaviour is one of the most popular applications of Machine Learning in various fields like Finance, Sales, Marketing.
