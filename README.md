@@ -26,6 +26,8 @@
 |     11    |          Purchase          |   int64   |         Purchase amount         | False  |
 
 ----
+# Purchase :
+![](readme//Purchase.JPG)
 
 ## Motivation:
 - Predicting customer's behaviour is one of the most popular applications of Machine Learning in various fields like Finance, Sales, Marketing.
