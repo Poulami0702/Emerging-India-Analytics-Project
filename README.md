@@ -31,6 +31,11 @@
 ### Age : [Analysis](https://github.com/Poulami0702/Emerging-India-Analytics-Project/blob/main/readme/Age.JPG) 
 ### Occupation : [Analysis](https://github.com/Poulami0702/Emerging-India-Analytics-Project/blob/main/readme/Occupation.JPG) 
 ### Product_category_1 : [Analysis](https://github.com/Poulami0702/Emerging-India-Analytics-Project/blob/main/readme/Product_category_1.JPG) 
+
+----
+
+### Submission File : [CSV](https://github.com/Poulami0702/Emerging-India-Analytics-Project/blob/main/Black%20Friday%20Sales/Submission%20(2).csv)
+
 ----
 
 ## Motivation:
